@@ -19,7 +19,7 @@ git clone git@github.com:victorramos/eventex.git wttd
 cd wttd
 python -m venv .wttd
 .wttd/Sources/activate.bat
-pip install -r requirements.txt
+pip install -r requirements-dev.txt
 cp contrib/env-example .env
 python manage.py test
 ```
