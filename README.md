@@ -2,6 +2,9 @@
 
 Sistemas de Eventos encomendado pela Morena.
 
+[![Build Status](https://travis-ci.org/vrangelramos/wttd.svg?branch=master)](https://travis-ci.org/vrangelramos/wttd)
+[![Code Health](https://landscape.io/github/vrangelramos/wttd/master/landscape.svg?style=flat)](https://landscape.io/github/vrangelramos/wttd/master)
+
 ## Como desenvolver?
 
 1. Clone o repositório.
